@@ -185,7 +185,7 @@ class SphereVisualizer {
     }
 
     // Room.
-    const roomGeometry = new THREE.BoxGeometry(20, 3, 20, 10, 2, 10);
+    const roomGeometry = new THREE.BoxGeometry(20, 6, 20, 10, 2, 10);
     const roomMaterial = new THREE.MeshBasicMaterial({
       wireframe: true,
       opacity: 0.1,
