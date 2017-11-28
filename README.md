@@ -25,4 +25,4 @@ NOTE: All libraries and dependencies are included in the repository (It's only T
 
 Details
 ============
-For aditional information, see [this presentation](https://spherevisualizer.github.io/presentation).
+For additional information, see [this presentation](https://spherevisualizer.github.io/presentation/).
