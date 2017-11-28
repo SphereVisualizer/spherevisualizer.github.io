@@ -7,8 +7,8 @@ This applications uses Web audio API, Three.js and its WebVR API.
 Little demo in: https://spherevisualizer.github.io
 
 
-![](/src/images/example.png)
-![](/src/images/exampleVR.png)
+![](/src/img/example.png)
+![](/src/img/exampleVR.png)
 
 
 Getting Started
@@ -23,3 +23,6 @@ If you want to run it in your computer, you have to:
 NOTE: All libraries and dependencies are included in the repository (It's only Three.js and JQuery after all).
 
 
+Details
+============
+For aditional information, see [this presentation](https://spherevisualizer.github.io/presentation).
