@@ -5,8 +5,11 @@ This project is a virtual reality application, it combines audio and video inter
 This applications uses Web audio API, Three.js and its WebVR API.
 
 Little demo in: https://spherevisualizer.github.io
-![](/Images/example.png)
-![](/Images/exampleVR.png)
+
+
+![](/src/images/example.png)
+![](/src/images/exampleVR.png)
+
 
 Getting Started
 ============
