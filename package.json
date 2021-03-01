@@ -5,7 +5,7 @@
   "main": "index.html",
   "dependencies": {
     "jquery": "^3.4.1",
-    "three": "^0.87.1"
+    "three": "^0.125.0"
   },
   "devDependencies": {},
   "scripts": {
